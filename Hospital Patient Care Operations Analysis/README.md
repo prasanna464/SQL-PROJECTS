@@ -29,7 +29,7 @@ The database contains five main tables:
 
 ## 🔗 ER Diagram
 
-![Hospital ER Diagram](ER_Diagram/Hospital_ER_Diagram.png)
+<img width="1917" height="916" alt="image" src="https://github.com/user-attachments/assets/8b8d63a7-7846-401c-87b3-d8939f5d7775" />
 
 ## 🛠️ Technologies Used
 
