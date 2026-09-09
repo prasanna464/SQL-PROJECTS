@@ -219,17 +219,10 @@ Hospital-Patient-Care-Operations-Analysis/
 ├── SQL/
 │   └── Hospital_Op_Analytics_SQL_Project.sql
 │
-├── ER_Diagram/
-│   └── Hospital_ER_Diagram.png
-│
 ├── Presentation/
-│   └── Hospital Patient Care Operations Analysis.pptx
-│
-└── Screenshots/
-    └── SQL_Query_Results.png
-```
+  └── Hospital Patient Care Operations Analysis.pptx
 
-> **Note:** The `Screenshots` folder is optional. Add query-result screenshots if you want to showcase the analysis visually.
+```
 
 ---
 
