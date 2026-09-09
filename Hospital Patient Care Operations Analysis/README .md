@@ -160,7 +160,7 @@ This approach helped convert structured hospital data into useful operational in
 
 Based on the project analysis:
 
-- **Delhi** had the highest appointment volume.
+- **Kochi** had the highest appointment volume.
 - Appointment demand varied across service types and priority levels.
 - Appointment volume showed variation across different months.
 - **General patients** had the highest patient and appointment volume.
@@ -358,13 +358,6 @@ Aspiring **Data Analyst** with an interest in:
 ## 🙏 Acknowledgement
 
 I would like to thank my trainers and mentors for their guidance and support throughout my SQL and Data Analytics learning journey.
-
-Special thanks to:
-
-- **Raghu Ram Aduri Sir**
-- **Kalpana Katiki Reddy Mam**
-- **Vishwanath Nyathani Sir**
-- **Innomatics Research Labs**
 
 ---
 
