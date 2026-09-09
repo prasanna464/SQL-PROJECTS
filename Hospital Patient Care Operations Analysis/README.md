@@ -69,4 +69,4 @@ The database contains five main tables:
 
 B.Tech – Computer Science & Engineering
 
-Skills: MySQL | SQL | Python | Power BI | Excel | Tableau
+Skills: MySQL 
